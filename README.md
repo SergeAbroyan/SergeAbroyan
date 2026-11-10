@@ -1,9 +1,10 @@
 # Serge Abroyan
 
-DevOps engineer based in Yerevan, Armenia, with 7+ years in software
+Senior DevOps engineer based in Yerevan, Armenia, with 7+ years in software
 engineering and 5+ years running cloud infrastructure, Kubernetes, and delivery
-pipelines in production. I started as a Java backend developer, so I know how
-applications are built as well as what it takes to run them reliably.
+pipelines in production, including on-call and incident response. I started as
+a Java backend developer, so I know how applications are built as well as what
+it takes to keep them running.
 
 Open to remote DevOps and platform engineering roles.
 
