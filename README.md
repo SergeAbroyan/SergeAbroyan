@@ -6,7 +6,7 @@ pipelines in production, including on-call and incident response. I started as
 a Java backend developer, so I know how applications are built as well as what
 it takes to keep them running.
 
-Open to remote DevOps and platform engineering roles.
+Open to remote DevOps, SRE, and platform engineering roles.
 
 ## Featured project: Nexus
 
